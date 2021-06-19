@@ -1,5 +1,5 @@
 name: oelrich-se
 title: Culture Prescribed Personal Page
-version: dev
+version: diktion
 nav:
-  - modules/home/nav.adoc
+  - modules/ROOT/nav.adoc
