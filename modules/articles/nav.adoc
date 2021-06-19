@@ -1,1 +1,2 @@
 * xref:index.adoc[Articles]
+** xref:blogging.adoc[Blogging]
